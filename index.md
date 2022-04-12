@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Conversions API
 
-You can use the [editor on GitHub](https://github.com/rahulraina7/conversionsapi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Conversions API creates a connection between an advertiser’s marketing data and the Meta systems that optimize ad targeting, decrease cost per action and measure results. In the case of direct integrations, this entails establishing a connection between an advertiser’s server and Meta.
 
-### Markdown
+Server events are linked to a Meta Pixel ID and are processed like web events sent via Pixel. This means that web server events are used in measurement, reporting, and optimization in a similar way as browser Pixel events.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For optimal ad performance, we recommend that advertisers implement the Conversions API alongside their Meta Pixel and follow other best practices.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Recommended Steps
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahulraina7/conversionsapi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Get Started: Choose the integration method that works best for you, see prerequisites for using the API, and understand where to begin.
+2. Implement the API and start sending requests: Start making POST requests and learn more about dropped events, batch requests, and event transaction time.
+3. Verify your setup: Confirm that we have received your events and that events are deduplicated and matched correctly.
