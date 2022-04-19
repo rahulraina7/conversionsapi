@@ -1,8 +1,5 @@
 <!-- Meta Pixel Code -->
 <script src="https://assets.adobedtm.com/180c356c94b3/996d58459d92/launch-8a80864b5cb4-development.min.js" async></script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=1411564109272155&ev=PageView&noscript=1"
-/></noscript>
 <!-- End Meta Pixel Code -->
 
 ## Welcome to Conversions API
